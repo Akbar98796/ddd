@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Services.Common\Services.Common.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Using Include="Catalog.Domain.AggregatesModel.BrandAggregate" />
+    <Using Include="Catalog.Domain.AggregatesModel.CategoryAggregate" />
+    <Using Include="Catalog.Domain.AggregatesModel.ProductAggregate" />
+    <Using Include="Catalog.Domain.AggregatesModel.SellerAggregate" />
+    <Using Include="Services.Common.Domain" />
+    <Using Include="Services.Common.Domain.Primitives" />
+    <Using Include="System.Text.RegularExpressions" />
+  </ItemGroup>
+
+</Project>

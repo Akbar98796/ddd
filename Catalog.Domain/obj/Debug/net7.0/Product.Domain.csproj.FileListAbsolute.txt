@@ -1,0 +1,12 @@
+C:\Users\akber\source\repos\Ecommerce\Eshop\Product.Domain\bin\Debug\net7.0\Product.Domain.deps.json
+C:\Users\akber\source\repos\Ecommerce\Eshop\Product.Domain\bin\Debug\net7.0\Product.Domain.dll
+C:\Users\akber\source\repos\Ecommerce\Eshop\Product.Domain\bin\Debug\net7.0\Product.Domain.pdb
+C:\Users\akber\source\repos\Ecommerce\Eshop\Product.Domain\obj\Debug\net7.0\Product.Domain.csproj.AssemblyReference.cache
+C:\Users\akber\source\repos\Ecommerce\Eshop\Product.Domain\obj\Debug\net7.0\Product.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akber\source\repos\Ecommerce\Eshop\Product.Domain\obj\Debug\net7.0\Product.Domain.AssemblyInfoInputs.cache
+C:\Users\akber\source\repos\Ecommerce\Eshop\Product.Domain\obj\Debug\net7.0\Product.Domain.AssemblyInfo.cs
+C:\Users\akber\source\repos\Ecommerce\Eshop\Product.Domain\obj\Debug\net7.0\Product.Domain.csproj.CoreCompileInputs.cache
+C:\Users\akber\source\repos\Ecommerce\Eshop\Product.Domain\obj\Debug\net7.0\Product.Domain.dll
+C:\Users\akber\source\repos\Ecommerce\Eshop\Product.Domain\obj\Debug\net7.0\refint\Product.Domain.dll
+C:\Users\akber\source\repos\Ecommerce\Eshop\Product.Domain\obj\Debug\net7.0\Product.Domain.pdb
+C:\Users\akber\source\repos\Ecommerce\Eshop\Product.Domain\obj\Debug\net7.0\ref\Product.Domain.dll

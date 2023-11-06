@@ -1,0 +1,12 @@
+C:\Users\akber\source\repos\Ecommerce\Eshop\Product.Domain\obj\Debug\net7.0\Catalog.Domain.csproj.AssemblyReference.cache
+C:\Users\akber\source\repos\Ecommerce\Eshop\Product.Domain\obj\Debug\net7.0\Catalog.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akber\source\repos\Ecommerce\Eshop\Product.Domain\obj\Debug\net7.0\Catalog.Domain.AssemblyInfoInputs.cache
+C:\Users\akber\source\repos\Ecommerce\Eshop\Product.Domain\obj\Debug\net7.0\Catalog.Domain.AssemblyInfo.cs
+C:\Users\akber\source\repos\Ecommerce\Eshop\Product.Domain\obj\Debug\net7.0\Catalog.Domain.csproj.CoreCompileInputs.cache
+C:\Users\akber\source\repos\Ecommerce\Eshop\Product.Domain\bin\Debug\net7.0\Catalog.Domain.deps.json
+C:\Users\akber\source\repos\Ecommerce\Eshop\Product.Domain\bin\Debug\net7.0\Catalog.Domain.dll
+C:\Users\akber\source\repos\Ecommerce\Eshop\Product.Domain\bin\Debug\net7.0\Catalog.Domain.pdb
+C:\Users\akber\source\repos\Ecommerce\Eshop\Product.Domain\obj\Debug\net7.0\Catalog.Domain.dll
+C:\Users\akber\source\repos\Ecommerce\Eshop\Product.Domain\obj\Debug\net7.0\refint\Catalog.Domain.dll
+C:\Users\akber\source\repos\Ecommerce\Eshop\Product.Domain\obj\Debug\net7.0\Catalog.Domain.pdb
+C:\Users\akber\source\repos\Ecommerce\Eshop\Product.Domain\obj\Debug\net7.0\ref\Catalog.Domain.dll
